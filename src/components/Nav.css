@@ -1,0 +1,12 @@
+.nav{
+    display: flex;
+    height: 70px;
+    box-shadow: 0px 1px 8px gray;
+    align-items: center;
+    
+}
+.menu{flex: 0.45;}
+.nav-image{
+    object-fit: contain;
+    height: 100px;
+}

@@ -1,0 +1,14 @@
+.contents{
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.loadmore{
+    cursor: pointer;
+    background-color: white;
+    border: none;
+    box-shadow: 0 2px 5px black;
+    padding: 7px 25px;
+}

@@ -1,0 +1,27 @@
+.newscard{
+    display: flex;
+    width: 100%;
+    box-shadow: 0px 2px 5px black;
+    padding: 10px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+
+}
+.newsImage{
+    object-fit: cover;
+    width: 300px;
+    height: 260px;
+}
+.newsText{
+    padding-right: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-left: 10px;
+
+}
+.author{
+    font-size: 12px;
+    font-weight: 300px;
+    color: gray;
+}
